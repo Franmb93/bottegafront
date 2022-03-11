@@ -1,3 +1,12 @@
+# Version 0.1
+
+This project is a portfolio for the capstone project of DevCamp.
+Version 0.1 - Skeleton of the react app.
+
+
+
+
+
 # Getting Started with Create React App
 
 This project was bootstrapped with [Create React App](https://github.com/facebook/create-react-app).
